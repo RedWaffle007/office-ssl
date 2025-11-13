@@ -1,0 +1,85 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "andy_bernard"
+    },
+    {
+      "id": 1,
+      "name": "angela_martin"
+    },
+    {
+      "id": 2,
+      "name": "creed_bratton"
+    },
+    {
+      "id": 3,
+      "name": "darryl_philbin"
+    },
+    {
+      "id": 4,
+      "name": "dwight_schrute"
+    },
+    {
+      "id": 5,
+      "name": "erin_hannon"
+    },
+    {
+      "id": 6,
+      "name": "jim_halpert"
+    },
+    {
+      "id": 7,
+      "name": "kelly_kapoor"
+    },
+    {
+      "id": 8,
+      "name": "kevin_malone"
+    },
+    {
+      "id": 9,
+      "name": "meredith_palmer"
+    },
+    {
+      "id": 10,
+      "name": "michael_scott"
+    },
+    {
+      "id": 11,
+      "name": "nellie_bertram"
+    },
+    {
+      "id": 12,
+      "name": "oscar_martinez"
+    },
+    {
+      "id": 13,
+      "name": "others"
+    },
+    {
+      "id": 14,
+      "name": "pam_beesly"
+    },
+    {
+      "id": 15,
+      "name": "phyllis_vance"
+    },
+    {
+      "id": 16,
+      "name": "ryan_howard"
+    },
+    {
+      "id": 17,
+      "name": "stanley_hudson"
+    },
+    {
+      "id": 18,
+      "name": "toby_flenderson"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
